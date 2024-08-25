@@ -1,5 +1,7 @@
 # IP Camera Alarm Server
 
+This is a fork. Please use the upstream repository for changes.
+
 ![docker pulls](https://img.shields.io/docker/pulls/toxuin/alarmserver)
 
 Universal Alarm Server for all your IP cameras in one place!
