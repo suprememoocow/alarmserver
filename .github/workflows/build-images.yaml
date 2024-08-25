@@ -16,7 +16,7 @@ jobs:
       - name: Prepare
         id: prep
         run: |
-          DOCKER_IMAGE=gchr.io/suprememoocow/alarm-server
+          DOCKER_IMAGE=ghcr.io/suprememoocow/alarm-server
           VERSION=latest
           SHORTREF=${GITHUB_SHA::8}
 
